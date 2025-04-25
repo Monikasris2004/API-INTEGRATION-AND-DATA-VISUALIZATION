@@ -1,10 +1,11 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
-
-
-
-
-
-
+"company":CODECH IT SOLUTION
+"Name":Monikasri.S
+"Intern id":CT04DA885
+"Domain":python
+"Duration":4 weeks
+"Mentor":NEELA SANTOSH
+##YOU WANT TO ENTER DESCRIPTION OF THE TASK
 
 
 
